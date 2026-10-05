@@ -10,8 +10,6 @@ Built with **Python, Streamlit, SQLite, Pandas, Scikit-learn, and AI-driven anal
 
 ![ASCEND Dashboard](assets/screenshots/dashboard.png)
 
-<img width="1905" height="1047" alt="Screenshot 2026-10-05 214134" src="https://github.com/user-attachments/assets/7fb76adb-40fa-4140-a46c-0db3d0b51ab1" />
-
 ---
 
 ## 🚀 Key Capabilities
