@@ -1,0 +1,199 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Playfair+Display:wght@600;700&display=swap');
+
+html,body,[class*="css"]{
+font-family:'Poppins',sans-serif;
+}
+
+h1,h2,h3{
+font-family:'Playfair Display',serif !important;
+color:#1F2A44;
+font-variant-numeric:lining-nums;
+font-feature-settings:"lnum" 1;
+}
+
+.stApp{
+background-image:linear-gradient(135deg,#fdfcfb 0%,#e2d1c3 100%);
+}
+
+
+/* ===========================
+   METRIC CARDS
+=========================== */
+
+.metric-card{
+background:white;
+padding:25px;
+min-height:180px;
+display:flex;
+flex-direction:column;
+justify-content:center;
+align-items:center;
+gap:8px;
+text-align:center;
+border-radius:18px;
+box-shadow:0 6px 20px rgba(31,42,68,.08);
+border:1px solid #ECE7DC;
+transition:all .35s ease;
+animation:fadeUp .6s ease;
+position:relative;
+overflow:hidden;
+}
+
+.metric-card::before{
+content:"";
+position:absolute;
+top:0;
+left:0;
+width:100%;
+height:6px;
+background:linear-gradient(90deg,#1F2A44,#B08D57);
+}
+
+.metric-card:hover{
+transform:translateY(-8px);
+box-shadow:0 15px 35px rgba(31,42,68,.15);
+}
+
+.metric-card h3{
+font-size:38px;
+margin:0;
+}
+
+.metric-card h4{
+margin-top:10px;
+margin-bottom:8px;
+color:#6B7280;
+font-size:17px;
+font-weight:600;
+}
+
+.metric-card h2{
+margin:0;
+font-size:30px;
+font-weight:700;
+color:#1F2A44;
+font-family:'Poppins',sans-serif !important;
+}
+
+.metric-card p{
+margin-top:12px;
+font-size:13px;
+font-weight:500;
+color:#8A6A3B !important;
+}
+
+
+/* ===========================
+   SIDEBAR
+=========================== */
+
+section[data-testid="stSidebar"]{
+background-image:linear-gradient(135deg,#fdfcfb 0%,#e2d1c3 100%);
+border-right:1px solid #E8E2D6;
+}
+
+
+/* ===========================
+   BUTTONS
+=========================== */
+
+.stButton>button{
+width:100%;
+background:#1F2A44;
+color:white;
+border:none;
+border-radius:12px;
+padding:10px;
+font-size:15px;
+font-weight:600;
+transition:.3s;
+cursor:pointer;
+}
+
+.stButton>button:hover{
+background:#2D3B5F;
+transform:translateY(-2px);
+}
+
+.stDownloadButton>button{
+width:100%;
+background:#8A6A3B;
+color:white;
+border:none;
+border-radius:12px;
+padding:10px;
+font-weight:600;
+transition:.3s;
+}
+
+.stDownloadButton>button:hover{
+background:#6F5530;
+transform:translateY(-2px);
+}
+
+
+/* ===========================
+   TABLES, HEADINGS, PROGRESS
+=========================== */
+
+[data-testid="stDataFrame"]{
+border-radius:18px;
+background:white;
+overflow:hidden;
+box-shadow:0 6px 20px rgba(31,42,68,.08);
+}
+
+h2{
+color:#1F2A44;
+font-size:30px;
+font-weight:700;
+margin-top:10px;
+margin-bottom:20px;
+padding-bottom:8px;
+border-bottom:2px solid #B08D57;
+display:inline-block;
+}
+
+.metric-card h2{
+border-bottom:none;
+padding-bottom:0;
+margin-top:0;
+margin-bottom:0;
+}
+
+.stProgress > div > div{
+background:linear-gradient(90deg,#1F2A44,#B08D57);
+border-radius:10px;
+}
+
+[data-testid="stAlert"]{
+border-radius:15px;
+}
+
+
+@keyframes fadeUp{
+from{
+opacity:0;
+transform:translateY(20px);
+}
+to{
+opacity:1;
+transform:translateY(0);
+}
+}
+
+
+.chart-box{
+background:white;
+padding:25px;
+border-radius:20px;
+box-shadow:0 6px 20px rgba(31,42,68,.08);
+border:1px solid #ECE7DC;
+margin-top:10px;
+margin-bottom:30px;
+}
+
+hr{
+margin-top:25px;
+margin-bottom:25px;
+}
