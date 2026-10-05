@@ -32,7 +32,11 @@ Built with **Python, Streamlit, SQLite, Pandas, Scikit-learn, and AI-driven anal
 * Interactive visualizations
 * Expense distribution analysis
 
-<img width="1916" height="1031" alt="Screenshot 2026-10-05 214223" src="https://github.com/user-attachments/assets/bcc27234-a363-4e30-8d6a-b4f7e7a0e52e" />
+## 📈 Analytics Preview
+
+ASCEND analyzes spending patterns, category distribution, and historical expense trends to help users understand financial behavior.
+
+![ASCEND Analytics](assets/screenshots/analytics.png)
 
 ### 🤖 AI-Powered Intelligence
 
@@ -44,7 +48,11 @@ Built with **Python, Streamlit, SQLite, Pandas, Scikit-learn, and AI-driven anal
 * Spending behavior analysis
 * Anomaly detection
 
-<img width="1917" height="1040" alt="Screenshot 2026-10-05 214341" src="https://github.com/user-attachments/assets/047ee4c4-8910-44d0-a884-af327afd581f" />
+## 🤖 AI Insights Preview
+
+ASCEND uses machine learning and financial analytics to generate spending predictions, risk assessments, and intelligent recommendations.
+
+![ASCEND AI Insights](assets/screenshots/ai-insights.png)
 
 ### 📄 Reporting
 
@@ -53,7 +61,11 @@ Built with **Python, Streamlit, SQLite, Pandas, Scikit-learn, and AI-driven anal
 * PDF report generation
 * Data export capabilities
 
-<img width="1911" height="1021" alt="Screenshot 2026-10-05 214421" src="https://github.com/user-attachments/assets/72308b8a-429d-4b27-8260-ceb6795ce5e8" />
+## 📄 Reports Preview
+
+ASCEND generates structured financial reports with category analysis, spending summaries, and financial performance insights.
+
+![ASCEND Reports](assets/screenshots/reports.png)
 
 ---
 
