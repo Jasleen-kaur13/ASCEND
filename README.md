@@ -6,6 +6,8 @@ ASCEND is an AI-powered financial intelligence platform designed to help busines
 
 Built with **Python, Streamlit, SQLite, Pandas, Scikit-learn, and AI-driven analytics**, ASCEND combines financial tracking with predictive analytics and intelligent recommendations in a unified dashboard.
 
+<img width="1905" height="1047" alt="Screenshot 2026-10-05 214134" src="https://github.com/user-attachments/assets/7fb76adb-40fa-4140-a46c-0db3d0b51ab1" />
+
 ---
 
 ## 🚀 Key Capabilities
@@ -28,6 +30,8 @@ Built with **Python, Streamlit, SQLite, Pandas, Scikit-learn, and AI-driven anal
 * Interactive visualizations
 * Expense distribution analysis
 
+<img width="1916" height="1031" alt="Screenshot 2026-10-05 214223" src="https://github.com/user-attachments/assets/bcc27234-a363-4e30-8d6a-b4f7e7a0e52e" />
+
 ### 🤖 AI-Powered Intelligence
 
 * Future spending prediction using machine learning
@@ -38,12 +42,16 @@ Built with **Python, Streamlit, SQLite, Pandas, Scikit-learn, and AI-driven anal
 * Spending behavior analysis
 * Anomaly detection
 
+<img width="1917" height="1040" alt="Screenshot 2026-10-05 214341" src="https://github.com/user-attachments/assets/047ee4c4-8910-44d0-a884-af327afd581f" />
+
 ### 📄 Reporting
 
 * Automated financial reports
 * Category-based reporting
 * PDF report generation
 * Data export capabilities
+
+<img width="1911" height="1021" alt="Screenshot 2026-10-05 214421" src="https://github.com/user-attachments/assets/72308b8a-429d-4b27-8260-ceb6795ce5e8" />
 
 ---
 
