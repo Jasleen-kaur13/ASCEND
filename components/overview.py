@@ -5,9 +5,9 @@ def show_overview(filtered_df, budget):
     # Hero Section
     st.markdown("""
     <div class="hero">
-        <h1>💰 Expense Analytics Dashboard</h1>
+        <h1>💼 ASCEND Financial Intelligence</h1>
         <p>
-            Track • Analyze • Predict • Save Smarter
+            Monitor Performance • Analyze Spending • Predict Trends
         </p>
     </div>
     """, unsafe_allow_html=True)
