@@ -1,5 +1,9 @@
 # ASCEND
 
+### 🚀 Live Demo
+
+[Open ASCEND Live](https://ascend-ai-finance.streamlit.app/)
+
 ### AI-Powered Financial Intelligence Platform for Businesses
 
 ASCEND is an AI-powered financial intelligence platform designed to help businesses understand spending, monitor financial performance, predict future expenses, optimize budgets, and make data-driven financial decisions.
